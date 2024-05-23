@@ -1,0 +1,257 @@
+[2023-03-19 08:58:30][notice]Start restoring themes.
+[2023-03-19 08:58:30][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:31][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip succeeded.
+[2023-03-19 08:58:31][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_themes.zip index:0
+[2023-03-19 08:58:31][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_themes.zip index:0 finished.
+[2023-03-19 08:58:31][notice]End restore themes.
+[2023-03-19 08:58:32][notice]Start restoring themes.
+[2023-03-19 08:58:32][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_themes.zip index:1000
+[2023-03-19 08:58:32][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_themes.zip index:1000 finished.
+[2023-03-19 08:58:32][notice]End restore themes.
+[2023-03-19 08:58:33][notice]Start restoring plugin.
+[2023-03-19 08:58:33][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:34][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip succeeded.
+[2023-03-19 08:58:34][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:0
+[2023-03-19 08:58:34][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:0 finished.
+[2023-03-19 08:58:34][notice]End restore plugin.
+[2023-03-19 08:58:35][notice]Start restoring plugin.
+[2023-03-19 08:58:35][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:1000
+[2023-03-19 08:58:35][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:1000 finished.
+[2023-03-19 08:58:35][notice]End restore plugin.
+[2023-03-19 08:58:36][notice]Start restoring plugin.
+[2023-03-19 08:58:36][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:2000
+[2023-03-19 08:58:36][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:2000 finished.
+[2023-03-19 08:58:36][notice]End restore plugin.
+[2023-03-19 08:58:38][notice]Start restoring plugin.
+[2023-03-19 08:58:38][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:3000
+[2023-03-19 08:58:38][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:3000 finished.
+[2023-03-19 08:58:38][notice]End restore plugin.
+[2023-03-19 08:58:39][notice]Start restoring plugin.
+[2023-03-19 08:58:39][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:4000
+[2023-03-19 08:58:39][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_plugin.zip index:4000 finished.
+[2023-03-19 08:58:39][notice]End restore plugin.
+[2023-03-19 08:58:40][notice]Start restoring wp-content.
+[2023-03-19 08:58:40][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:40][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip succeeded.
+[2023-03-19 08:58:40][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_content.zip index:0
+[2023-03-19 08:58:40][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_content.zip index:0 finished.
+[2023-03-19 08:58:40][notice]End restore wp-content.
+[2023-03-19 08:58:42][notice]Start restoring upload.
+[2023-03-19 08:58:42][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:42][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip succeeded.
+[2023-03-19 08:58:42][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_uploads.zip index:0
+[2023-03-19 08:58:42][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_uploads.zip index:0 finished.
+[2023-03-19 08:58:42][notice]End restore upload.
+[2023-03-19 08:58:43][notice]Start restoring wp-core.
+[2023-03-19 08:58:43][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:43][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip succeeded.
+[2023-03-19 08:58:43][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_core.zip
+[2023-03-19 08:58:44][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_core.zip succeeded.
+[2023-03-19 08:58:44][notice]End restore wp-core.
+[2023-03-19 08:58:45][notice]Start restoring databases.
+[2023-03-19 08:58:45][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip
+[2023-03-19 08:58:45][notice]Extracting file:wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_all.zip finished.
+[2023-03-19 08:58:45][notice]Extracting file:/var/www/clients/client76/web110/web/wp-content/wpvividbackups/wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_db.zip
+[2023-03-19 08:58:45][notice]Extracting file:/var/www/clients/client76/web110/web/wp-content/wpvividbackups/wakaeasternbay.org.nz_wpvivid-64168034eb078_2023-03-19-03-23_backup_db.zip finished.
+[2023-03-19 08:58:45][notice]End restore databases.
+[2023-03-19 08:58:47][notice]Start restoring databases.
+[2023-03-19 08:58:47][notice]Start restoring sql file offset:0
+[2023-03-19 08:58:47][notice]The test to drop table succeeds.
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfls_role_counts
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfls_role_counts
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_easywpsmtp_debug_events
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_easywpsmtp_debug_events
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_easywpsmtp_tasks_meta
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_easywpsmtp_tasks_meta
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfcrawlers
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfcrawlers
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wffilechanges
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wffilechanges
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wflocs
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wflocs
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfls_settings
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfls_settings
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfnotifications
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfnotifications
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfreversecache
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfreversecache
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wftrafficrates
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wftrafficrates
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_actionscheduler_claims
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_actionscheduler_claims
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_actionscheduler_groups
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_actionscheduler_groups
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_links
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_links
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_term_relationships
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_term_relationships
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfhoover
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfhoover
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wflivetraffichuman
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wflivetraffichuman
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_wfls_2fa_secrets
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_wfls_2fa_secrets
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_yoast_migrations
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_yoast_migrations
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_actionscheduler_logs
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_actionscheduler_logs
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_commentmeta
+[2023-03-19 08:58:47][notice]Creating table tmp84b13f_commentmeta
+[2023-03-19 08:58:47][notice]Drop table if exist tmp84b13f_smush_dir_images
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_smush_dir_images
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_term_taxonomy
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_term_taxonomy
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_termmeta
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_termmeta
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_terms
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_terms
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_usermeta
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_usermeta
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wflogins
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wflogins
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_yoast_primary_term
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_yoast_primary_term
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_yoast_seo_links
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_yoast_seo_links
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_users
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_users
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wfblocks7
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wfblocks7
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wfsnipcache
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wfsnipcache
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_yoast_indexable_hierarchy
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_yoast_indexable_hierarchy
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wfissues
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wfissues
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wfpendingissues
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wfpendingissues
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_comments
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_comments
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_yoast_indexable
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_yoast_indexable
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_actionscheduler_actions
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_actionscheduler_actions
+[2023-03-19 08:58:48][notice]Drop table if exist tmp84b13f_wfblockediplog
+[2023-03-19 08:58:48][notice]Creating table tmp84b13f_wfblockediplog
+[2023-03-19 08:58:53][notice]Drop table if exist tmp84b13f_postmeta
+[2023-03-19 08:58:53][notice]Creating table tmp84b13f_postmeta
+[2023-03-19 08:58:53][notice]Drop table if exist tmp84b13f_wfstatus
+[2023-03-19 08:58:53][notice]Creating table tmp84b13f_wfstatus
+[2023-03-19 08:58:56][notice]Drop table if exist tmp84b13f_wfconfig
+[2023-03-19 08:58:56][notice]Creating table tmp84b13f_wfconfig
+[2023-03-19 08:58:57][notice]Drop table if exist tmp84b13f_options
+[2023-03-19 08:58:57][notice]Creating table tmp84b13f_options
+[2023-03-19 08:58:57][notice]Drop table if exist tmp84b13f_wfhits
+[2023-03-19 08:58:57][notice]Creating table tmp84b13f_wfhits
+[2023-03-19 08:59:03][notice]Drop table if exist tmp84b13f_wfknownfilelist
+[2023-03-19 08:59:03][notice]Creating table tmp84b13f_wfknownfilelist
+[2023-03-19 08:59:29][notice]Drop table if exist tmp84b13f_posts
+[2023-03-19 08:59:29][notice]Creating table tmp84b13f_posts
+[2023-03-19 08:59:30][notice]Reading sql file completed offset:5268448
+[2023-03-19 08:59:30][notice]End restore databases.
+[2023-03-19 08:59:31][notice]Start restoring databases.
+[2023-03-19 08:59:31][notice]Start restoring sql file offset:5268448
+[2023-03-19 08:59:31][notice]The test to drop table succeeds.
+[2023-03-19 08:59:31][notice]Drop table if exist tmp84b13f_wffilemods
+[2023-03-19 08:59:31][notice]Creating table tmp84b13f_wffilemods
+[2023-03-19 08:59:58][notice]UPDATE tmp84b13f_options SET option_value="https://wakaeasternbay.org.nz" WHERE option_name="siteurl";
+[2023-03-19 08:59:58][notice]update query len:102
+[2023-03-19 08:59:58][notice]UPDATE tmp84b13f_options SET option_value="https://wakaeasternbay.org.nz" WHERE option_name="home";
+[2023-03-19 08:59:58][notice]update query len:99
+[2023-03-19 08:59:58][notice]Restore db success
+[2023-03-19 08:59:58][notice]End restore databases.
+[2023-03-19 08:59:59][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_comments
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_easywpsmtp_debug_events
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_easywpsmtp_tasks_meta
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_links
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_options
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_postmeta
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_posts
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_smush_dir_images
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_termmeta
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_terms
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_usermeta
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_users
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfblockediplog
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfblocks7
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfconfig
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfcrawlers
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wffilechanges
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wffilemods
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfhits
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfhoover
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfissues
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfknownfilelist
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wflivetraffichuman
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wflocs
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wflogins
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfls_2fa_secrets
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfls_role_counts
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfls_settings
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfnotifications
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfpendingissues
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfreversecache
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfsnipcache
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wfstatus
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_wftrafficrates
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_yoast_indexable
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_yoast_indexable_hierarchy
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_yoast_migrations
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_yoast_primary_term
+[2023-03-19 08:59:59][notice]DROP TABLE IF EXISTS wp_yoast_seo_links
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_actionscheduler_actions TO wp_actionscheduler_actions
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_actionscheduler_claims TO wp_actionscheduler_claims
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_actionscheduler_groups TO wp_actionscheduler_groups
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_actionscheduler_logs TO wp_actionscheduler_logs
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_commentmeta TO wp_commentmeta
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_comments TO wp_comments
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_easywpsmtp_debug_events TO wp_easywpsmtp_debug_events
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_easywpsmtp_tasks_meta TO wp_easywpsmtp_tasks_meta
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_links TO wp_links
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_options TO wp_options
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_postmeta TO wp_postmeta
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_posts TO wp_posts
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_smush_dir_images TO wp_smush_dir_images
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_term_relationships TO wp_term_relationships
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_term_taxonomy TO wp_term_taxonomy
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_termmeta TO wp_termmeta
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_terms TO wp_terms
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_usermeta TO wp_usermeta
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_users TO wp_users
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfblockediplog TO wp_wfblockediplog
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfblocks7 TO wp_wfblocks7
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfconfig TO wp_wfconfig
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfcrawlers TO wp_wfcrawlers
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wffilechanges TO wp_wffilechanges
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wffilemods TO wp_wffilemods
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfhits TO wp_wfhits
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfhoover TO wp_wfhoover
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfissues TO wp_wfissues
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfknownfilelist TO wp_wfknownfilelist
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wflivetraffichuman TO wp_wflivetraffichuman
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wflocs TO wp_wflocs
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wflogins TO wp_wflogins
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfls_2fa_secrets TO wp_wfls_2fa_secrets
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfls_role_counts TO wp_wfls_role_counts
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfls_settings TO wp_wfls_settings
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfnotifications TO wp_wfnotifications
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfpendingissues TO wp_wfpendingissues
+[2023-03-19 08:59:59][notice]RENAME TABLE tmp84b13f_wfreversecache TO wp_wfreversecache
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_wfsnipcache TO wp_wfsnipcache
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_wfstatus TO wp_wfstatus
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_wftrafficrates TO wp_wftrafficrates
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_yoast_indexable TO wp_yoast_indexable
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_yoast_indexable_hierarchy TO wp_yoast_indexable_hierarchy
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_yoast_migrations TO wp_yoast_migrations
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_yoast_primary_term TO wp_yoast_primary_term
+[2023-03-19 09:00:00][notice]RENAME TABLE tmp84b13f_yoast_seo_links TO wp_yoast_seo_links
+[2023-03-19 09:00:00][notice]Replacing table prefix succeeded.
+[2023-03-19 09:00:00][notice]Deleting temp files.
